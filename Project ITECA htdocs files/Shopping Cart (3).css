@@ -1,0 +1,101 @@
+#Homebtn{
+	padding:16px 230px 16px 220px;
+    margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer
+	
+}/*This is used to style the Home&About button*/
+
+#Productsbtn{
+	padding:16px 230px 16px 220px;
+	margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+} /*This is used to style the Catalog button*/
+
+#Cartbtn{
+	padding:16px 230px 16px 220px;
+	margin:20px 0px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+}/*This is used to style the Shopping Cart Info button*/
+
+h1{
+	margin-left:600px;
+	font-size: 50px;
+	font-family:Bernard MT Condensed;
+}/*This is used to style the second heading*/
+
+#productdetail{
+	font-family:Bell MT;
+}/*This is used to position where the Products and their prices will be specified*/
+
+#Remove{
+	margin-left: 415px;
+	font-family:Bell MT;
+}/*This will be used to position the remove button*/
+
+#Totalitems{
+	font-family:Bell MT;
+	margin-left: 500px;
+}/*This will be used to position where the total items will be displayed*/
+
+#Subtotal{
+	font-family:Bell MT;	
+}/*This will be used to position where the subtotal will be displayed*/
+
+#VAT{
+	font-family:Bell MT;
+}/*This will be used to position where the VAT amount will be displayed*/
+
+#TotalCost{
+	font-family:Bell MT;
+}/*This will be used to position where the Total cost will be displayed*/
+
+#card{
+	font-family:Bell MT;
+	margin-left: 20px;
+}/*This will be used to position where the card options will be displayed*/
+
+#carddetails{
+	font-family:Bell MT;
+	margin-left: 52px;
+}/*This will be used to position where the card details input will be displayed*/
+
+#CVcode{
+	font-family:Bell MT;
+	margin-left: 30px;
+	width:40px;
+}/*This will be used to position where the CVV code input will be displayed*/
+
+#city{
+	font-family:Bell MT;
+	margin-left: 230px;
+}/*This will be used to position where the billing adress city input will be displayed*/
+
+#area{
+	font-family:Bell MT;
+	margin-left: 326px;
+}/*This will be used to position where the billing adress area input will be displayed*/
+
+#post-code{
+	font-family:Bell MT;
+	margin-left: 326px;
+}/*This will be used to position where the billing adress postal code input will be displayed*/
+
+#street{
+	font-family:Bell MT;
+	margin-left: 326px;
+}/*This will be used to position where the billing adress street input will be displayed*/
+
+#order{
+	font-family:Bell MT;
+	margin-left: 326px;
+}/*This will be used to position where the place order button will be displayed*/
+
+body{
+	background-color: #b342f5
+}/*This is used to customize the background of the body of the webpage*/

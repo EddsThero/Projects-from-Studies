@@ -1,0 +1,142 @@
+#Homebtn{ 
+	padding:16px 250px 16px 250px;
+    margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer
+	
+} /*This is used to style the Home&About button*/
+
+#Productsbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+} /*This is used to style the Catalog button*/
+
+#Cartbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 0px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+} /*This is used to style the Shopping Cart Info button*/
+
+h1{
+	font-family:Bernard MT Condensed;
+	font-size:50px; 
+	margin-left:850px;
+} /*This is used to style the first heading*/
+
+#top{
+	margin-left: 1450px;
+	font-family:cooper black;
+} /*This is used to style the Topshoe heading*/
+
+#Topshoe{
+	margin-left:220px;
+} /*This is used to position the image of the top selling shoes*/
+
+#NewShoe{
+	margin-left:220px;
+}/*This is used to position the image of the newly available shoes*/
+
+#new{
+	margin-left: 1555px;
+	font-family:cooper black;
+} /*This is used to style the Newly available heading*/
+
+.Group1{
+	margin: 10px 0px 30px 550px;
+	font-family:cooper black;
+} /*This is used to style the first row of shoes's heading*/
+
+.Group2{
+	margin: 10px 0px 30px 250px;
+	font-family:cooper black;
+} /*This is used to style the second row of shoes's heading*/
+
+.Group3{
+	margin: 10px 0px 10px 130px;
+	font-family:cooper black;
+} /*This is used to style the third row of shoes's heading*/
+
+.pic1{
+	margin-left: 550px;
+}/*This is used to position the image of the first row of shoes*/
+
+.pic2{
+	margin-left: 250px;
+	margin-right: 0px;
+}/*This is used to position the image of the second row of shoes*/
+
+.pic3{
+	margin-left: 200px;
+}/*This is used to position the image of the third row of shoes*/
+
+.cart1{
+	margin-left:550px;
+	font-family:Abadi;
+	background-color: #F64C72;
+	cursor:pointer;
+}/*This is used to position the "Add to cart" button of the first row of shoes*/
+
+.cart2{
+	margin-left:270px;
+	font-family:Abadi;
+	background-color: #F64C72;
+	cursor:pointer;
+}/*This is used to position the "Add to cart" button of the second row of shoes*/
+
+.cart3{
+	margin-left:220px;
+    font-family:Abadi;
+	background-color: #F64C72;
+	cursor:pointer;
+}/*This is used to position the "Add to cart" button of the third row of shoes*/
+
+/*This is used to style and to position all the navigational buttons for the different catalog pages*/
+#Catalog1{
+	margin-top: 30px;
+	margin-left: 700px;
+	margin-right: 50px;
+	font-family:calibri;
+	background-color: #F64C72;
+	cursor:pointer;
+} 
+
+#Catalog2{
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family:calibri;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+#Catalog3{
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family:calibri;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+#Catalog4{
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family:calibri;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+#Catalog5{
+	margin-left: 50px;
+	font-family:calibri;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+body{
+	background-color: #b342f5
+}/*This is used to customize the background of the body of the webpage*/

@@ -1,0 +1,62 @@
+#Homebtn{
+	padding:16px 250px 16px 250px;
+    margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer
+	
+} /*This is used to style the Home&About button*/
+
+#Productsbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+}/*This is used to style the Catalog button*/
+
+#Cartbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 0px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+} /*This is used to style the Shopping Cart Info button*/
+
+h1{
+	font-family:Bernard MT Condensed;
+	margin-left:800px;
+	font-size: 50px;
+}/*This is used to style the first heading*/
+
+h2{
+	font-family:Bernard MT Condensed;
+	margin-left:700px;
+	font-size: 40px;
+}/*This is used to style the second heading*/
+
+#about{
+	margin-left:700px;
+	margin-right:700px;
+}/*This is used to position the text of the "About us" paragraph*/
+
+#info{
+	margin-left:700px;
+	margin-right:700px;
+}/*This is used to position the text of the info about the Home page*/
+
+#contactUS{
+	margin-left: 1560px;
+}/*This is used to position the heading of the contact us info*/
+
+#phone{
+	margin-left: 1560px;
+}/*This is used to position the phone number info*/
+
+#email{
+	margin-left: 1500px;
+}/*This is used to position the business e-mail info*/
+
+body{
+	background-color: #b342f5
+}/*This is used to customize the background of the body of the webpage*/
