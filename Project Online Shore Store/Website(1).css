@@ -1,0 +1,62 @@
+#Homebtn{
+	padding:16px 250px 16px 250px;
+    margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer
+	
+}
+
+#Productsbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 30px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+#Cartbtn{
+	padding:16px 250px 16px 250px;
+	margin:20px 0px 20px 0px;
+	font-family:cooper black;
+	background-color: #F64C72;
+	cursor:pointer;
+}
+
+h1{
+	font-family:Bernard MT Condensed;
+	margin-left:800px;
+	font-size: 50px;
+}
+
+h2{
+	font-family:Bernard MT Condensed;
+	margin-left:700px;
+	font-size: 40px;
+}
+
+#about{
+	margin-left:700px;
+	margin-right:700px;
+}
+
+#info{
+	margin-left:700px;
+	margin-right:700px;
+}
+
+#contactUS{
+	margin-left: 1560px;
+}
+
+#phone{
+	margin-left: 1560px;
+}
+
+#email{
+	margin-left: 1500px;
+}
+
+body{
+	background-color: #b342f5
+}
